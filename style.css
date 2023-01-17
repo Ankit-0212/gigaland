@@ -107,3 +107,44 @@ body{
     display: none !important;
   }
 }
+.single{
+  padding: 30px;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+#single1{
+  width: 400px;
+  height: 0px;
+  display: none;
+  color: red;
+
+}
+#single2{
+  width: 400px;
+  height: 0px;
+  display: none;
+  color: red;
+ 
+}
+#single3{
+  width: 400px;
+  height: 0px;
+  display: none;
+  color: red;
+  
+}
+#single4{
+  width: 400px;
+  height: 0px;
+  display: none;
+  color: red;
+
+}
+#single5{
+  width: 400px;
+  height: 0px;
+  display: none;
+  color: red;
+
+}
