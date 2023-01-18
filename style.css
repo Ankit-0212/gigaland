@@ -166,6 +166,15 @@ body{
   
 
 }
+
+h2 a{
+  color: #b84dfa;
+}
+h2 a:hover
+{
+  transition: ease-in 0.5s;
+  color: #3e155e;
+}
 .de-flex-colx{
   display: flex;
   align-items: flex-end;
